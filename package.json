@@ -1,0 +1,22 @@
+{
+  "name": "theclubszone",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "firebase-tools": "^3.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Burgi0101/TheClubsZone.git"
+  },
+  "author": "Georg Burgstaller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Burgi0101/TheClubsZone/issues"
+  },
+  "homepage": "https://github.com/Burgi0101/TheClubsZone#readme"
+}
